@@ -6,7 +6,14 @@ HD textures for **[Shinobi PS2 Recomp](https://github.com/TheRealAfsan/Shinobi-P
 
 235 of the game's textures upscaled 4x on the GPU (Real-ESRGAN), with the PS2's transparency handled properly: no bright fringes, no dark halos. There are probably 10 to 15 thousand textures in the game, so this pack grows with every update.
 
-<p align="center"><img src="docs/compare-hud.png" width="49%"> <img src="docs/compare-menu-and-stage.png" width="49%"><br><sub>Original on the left, HD on the right.</sub></p>
+<p align="center"><img src="docs/gameplay-hd-hud-340fps.jpg" width="100%"><br><sub>Stage 1 with the HD HUD (Shinobi PS2 Recomp, 340 FPS with frame generation).</sub></p>
+
+<table><tr><td width="50%" align="center"><img src="docs/hud-original.jpg"><br><sub>Original HUD</sub></td><td width="50%" align="center"><img src="docs/hud-hd.jpg"><br><sub>HD Texture Pack 1</sub></td></tr>
+<tr><td width="50%" align="center"><img src="docs/kunai-original.jpg" height="300"><br><sub>Original kunai counter</sub></td><td width="50%" align="center"><img src="docs/kunai-hd.jpg" height="300"><br><sub>HD Texture Pack 1</sub></td></tr></table>
+
+<p align="center"><img src="docs/title-screen-hd.jpg" width="100%"><br><sub>The title screen with HD Texture Pack 1.</sub></p>
+
+<p align="center"><img src="docs/compare-hud.png" width="49%"> <img src="docs/compare-menu-and-stage.png" width="49%"><br><sub>The textures themselves: original on the left, HD on the right.</sub></p>
 
 ## What's in v1
 - **The whole HUD:** health, magic, kunai, the TATE counter, the gauges, the magic flames and kanji

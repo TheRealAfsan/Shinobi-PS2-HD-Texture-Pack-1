@@ -4,7 +4,7 @@ HD textures for **[Shinobi PS2 Recomp](https://github.com/TheRealAfsan/Shinobi-P
 
 **[Download the latest pack](https://github.com/TheRealAfsan/Shinobi-PS2-HD-Texture-Pack-1/releases/latest)** · **[Get the game recomp](https://github.com/TheRealAfsan/Shinobi-PS2-Recomp/releases/latest)**
 
-235 of the game's textures upscaled 4x on the GPU (Real-ESRGAN), with the PS2's transparency handled properly: no bright fringes, no dark halos. There are probably 10 to 15 thousand textures in the game, so this pack grows with every update.
+372 of the game's textures upscaled 4x on the GPU (Real-ESRGAN), with the PS2's transparency handled properly: no bright fringes, no dark halos. There are probably 10 to 15 thousand textures in the game, so this pack grows with every update.
 
 <p align="center"><img src="docs/gameplay-hd-hud-340fps.jpg" width="100%"><br><sub>Stage 1 with the HD HUD (Shinobi PS2 Recomp, 340 FPS with frame generation).</sub></p>
 
@@ -15,14 +15,19 @@ HD textures for **[Shinobi PS2 Recomp](https://github.com/TheRealAfsan/Shinobi-P
 
 <p align="center"><img src="docs/compare-hud.png" width="49%"> <img src="docs/compare-menu-and-stage.png" width="49%"><br><sub>The textures themselves: original on the left, HD on the right.</sub></p>
 
-## What's in v1
+## New in v2
+- **Stage 2:** its buildings, streets, walls, characters and effects
+- **More of the menus and screens**, and more of Stage 1
+- 137 textures more than v1. Nothing from v1 was changed: v2 only adds textures.
+
+## Also in the pack (from v1)
 - **The whole HUD:** health, magic, kunai, the TATE counter, the gauges, the magic flames and kanji
 - **The menus:** title screen, main menu, Options and Button Config (with sharp button icons), Extra menu, stage clear and results, pause, game over, and the game's font
 - **Stage title cards**, stage select pictures, the Shinobi logo and the start-up screens
 - **Stage 1:** buildings, streets, walls and effects
 
 ## Installing (Shinobi PS2 Recomp)
-1. Download `Shinobi-HD-Texture-Pack-v1.zip` from [Releases](https://github.com/TheRealAfsan/Shinobi-PS2-HD-Texture-Pack-1/releases/latest).
+1. Download `Shinobi-HD-Texture-Pack-v2.zip` (or newer) from [Releases](https://github.com/TheRealAfsan/Shinobi-PS2-HD-Texture-Pack-1/releases/latest).
 2. Unzip it into your Shinobi PS2 Recomp folder (the one with `Shinobi Launcher.exe`). The files go into `textures\SLUS-20459\replacements\`. Updating from an older pack? Just unzip over it.
 3. In the launcher's Mod Menu, make sure **HD texture packs** is on (it is by default).
 4. Start the game. Press **Shift+F5** in game to switch HD textures off and on and compare.
